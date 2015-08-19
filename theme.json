@@ -1,0 +1,10 @@
+{
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/5.png"
+    },
+    "css": {
+        "rule": {
+            "#playback .background": { "display": "none" }
+        }
+    }
+}
