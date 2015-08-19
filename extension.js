@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "Yemasthui";
+    var fork = "elocke";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -71,8 +71,8 @@
       voteSkip: false,
       voteSkipLimit: 10,
       historySkip: false,
-      timeGuard: true,
-      maximumSongLength: 10,
+      timeGuard: false,
+      maximumSongLength: 15,
       autodisable: true,
       commandCooldown: 30,
       usercommandsEnabled: true,
