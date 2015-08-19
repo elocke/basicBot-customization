@@ -96,7 +96,7 @@
       welcome: true,
       opLink: null,
       rulesLink: null,
-      themeLink: null,
+      themeLink: "https://rawgit.com/elocke/basicBot-customization/master/theme.json",
       fbLink: null,
       youtubeLink: null,
       website: null,
