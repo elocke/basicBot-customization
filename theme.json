@@ -1,19 +1,8 @@
 {
-    "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/5.png"
-    },
-    "css": {
-        "rule": {
-            "#playback .background": { "display": "none" }
-        }
-    }
-}
-
-{
     "room":                     "hack the planet",
     "author":                   "pwnie",
     "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://rawgit.com/elocke/basicBot-customization/master/theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
